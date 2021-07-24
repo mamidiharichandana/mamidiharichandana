@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamidiharichandana
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning automation testing
+- 🌱 I’m into automation testing using selenium with Java
 - 💞️ I’m looking to collaborate on selenium, Java and Automation testing
 
 <!---
